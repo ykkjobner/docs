@@ -23,7 +23,7 @@
     "@tabler/icons": "^2.6.0",
     "@tabler/icons-react": "^2.6.0",
     "clsx": "^1.2.1",
-    "eslint": "8.34.0",
+    "eslint": "9.15.0",
     "eslint-config-next": "13.2.1",
     "graphiql": "^3.0.4",
     "graphql": "^16.6.0",
