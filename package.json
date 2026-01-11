@@ -19,7 +19,7 @@
     "@mantine/hooks": "^5.10.5",
     "@mantine/next": "^5.10.5",
     "@mantine/prism": "^5.10.5",
-    "@stoplight/elements": "^8.3.3",
+    "@stoplight/elements": "^9.0.0",
     "@tabler/icons": "^2.6.0",
     "@tabler/icons-react": "^2.6.0",
     "clsx": "^1.2.1",
